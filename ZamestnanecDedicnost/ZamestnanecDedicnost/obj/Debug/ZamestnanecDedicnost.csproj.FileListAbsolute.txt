@@ -1,0 +1,10 @@
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\bin\Debug\ZamestnanecDedicnost.exe.config
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\bin\Debug\ZamestnanecDedicnost.exe
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\bin\Debug\ZamestnanecDedicnost.pdb
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csprojAssemblyReference.cache
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.Form1.resources
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.Properties.Resources.resources
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.GenerateResource.cache
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.CoreCompileInputs.cache
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.exe
+G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.pdb
