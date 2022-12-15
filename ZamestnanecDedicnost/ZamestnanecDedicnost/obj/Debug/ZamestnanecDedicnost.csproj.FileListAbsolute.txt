@@ -8,3 +8,14 @@ G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.
 G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.CoreCompileInputs.cache
 G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.exe
 G:\prg\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.pdb
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.AssemblyReference.cache
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.SuggestedBindingRedirects.cache
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.Form1.resources
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.Properties.Resources.resources
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.GenerateResource.cache
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.csproj.CoreCompileInputs.cache
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.exe
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\obj\Debug\ZamestnanecDedicnost.pdb
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\bin\Debug\ZamestnanecDedicnost.exe.config
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\bin\Debug\ZamestnanecDedicnost.exe
+C:\Users\svobodah.05\Source\Repos\OOPZamestanec\ZamestnanecDedicnost\ZamestnanecDedicnost\bin\Debug\ZamestnanecDedicnost.pdb

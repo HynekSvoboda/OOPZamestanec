@@ -11,7 +11,7 @@ namespace ZamestnanecDedicnost
     {
         protected string jmeno;
         protected string prijmeni;
-        protected DateTime datumnastupu;
+        protected DateTime datumNastupu;
         protected int hodinovaMzda;
         protected int odpracHodiny = 0;
         public int HodinovaMzda
@@ -26,29 +26,30 @@ namespace ZamestnanecDedicnost
         {
             this.jmeno = jmeno;
             this.prijmeni = prijmeni;
-            this.datumnastupu = datumnastupu;
+            this.datumNastupu = datumnastupu;
             this.hodinovaMzda = hodinovamzda;
         }
 
         public int PocetDni()
         {
             int pomocna = 0;
-            TimeSpan rozdil = DateTime.Now - datumnastupu;
+            TimeSpan rozdil = DateTime.Now - datumNastupu;
             pomocna = (int)rozdil.TotalDays;
-            return pomocna; 
+            if (pomocna < 0) return 0;
+            else return pomocna; 
         }
         public int OdpracujHodiny(int pocethodin)
         {
            return odpracHodiny += pocethodin;
         }
-        public int VypoctiMzdu()
+        public virtual int VypoctiMzdu()
         {
             int mzda = HodinovaMzda*odpracHodiny;
             return mzda;
         }
         public override string ToString()
         {
-            return "Jmeno " + jmeno + " prijmeni" + prijmeni + " datum nastupu: " + datumnastupu.ToString() +"tvoje hodinova mzda"+hodinovaMzda+" odpracovane hodiny"+OdpracujHodiny().ToString()+" tvoje mzda" + VypoctiMzdu().ToString();
+            return jmeno + prijmeni + ", datum nastupu: " + datumNastupu.ToShortDateString() +", tvoje hodinova mzda "+hodinovaMzda+",\nodpracovane hodiny "+odpracHodiny.ToString()+", tvoje mzda " + VypoctiMzdu().ToString()+", pocet dni od nastupu "+PocetDni().ToString();
         }
     }
 }
