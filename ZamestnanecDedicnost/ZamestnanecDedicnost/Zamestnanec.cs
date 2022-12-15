@@ -49,7 +49,7 @@ namespace ZamestnanecDedicnost
         }
         public override string ToString()
         {
-            return jmeno + prijmeni + ", datum nastupu: " + datumNastupu.ToShortDateString() +", tvoje hodinova mzda "+hodinovaMzda+",\nodpracovane hodiny "+odpracHodiny.ToString()+", tvoje mzda " + VypoctiMzdu().ToString()+", pocet dni od nastupu "+PocetDni().ToString();
+            return jmeno+" " + prijmeni + ", datum nastupu: " + datumNastupu.ToShortDateString() +", tvoje hodinova mzda "+hodinovaMzda+",\nodpracovane hodiny "+odpracHodiny.ToString()+", tvoje mzda " + VypoctiMzdu().ToString()+", pocet dni od nastupu "+PocetDni().ToString();
         }
     }
 }
